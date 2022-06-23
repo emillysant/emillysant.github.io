@@ -53,3 +53,6 @@ We're an open source movement that depends on your support to stay online and th
 ## Deploy 
 
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh
+
+https://gohugo.io/hosting-and-deployment/hosting-on-github/
+https://medium.com/responsive-br/publicando-seu-projeto-hugo-no-github-pages-e5a970d462ac
