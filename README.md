@@ -56,3 +56,6 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh
 
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 https://medium.com/responsive-br/publicando-seu-projeto-hugo-no-github-pages-e5a970d462ac
+
+## video
+https://www.youtube.com/watch?v=X4KzvWMKYaY
